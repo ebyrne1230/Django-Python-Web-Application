@@ -2,6 +2,115 @@
 Work done with Prosper IT Consulting Dev Ops Team
 
 
+# Live Project
+
+## Introduction
+
+I took part in a non-paid internship with Prosper IT Consulting working as a software developer as part of a Dev Ops team that worked on building a project that is a web scraping application built with Django and Beautifulsoup.  The application will gather data from the web that is relevant to the user, who is looking to travel.  It will include weather, flights info, events, restaurants, etc.  We will be getting the data with webscraping and APIs.
+
+This project leveraged the power of .NET frameworks and MVC.  The main programming language used was C# in addition to the front-end languages.
+
+Below are descriptions of stories I helped work on in an AGILE environment along with code snippets and navigation links.  
+
+*Jump to: [Back End Stories](#back-end-stories), [Front End Stories](#front-end-stories), [Other Skills](#other-skills), [Page Top](#live-project)*
+
+
+
+
+## Back End Stories
+* [NewAppBudgetApp](#newappbudgetapp)
+* [CleanUpDashboard](#cleanupdashboard)
+
+
+### NewAppBudgetApp
+
+Story Decription
+
+Before Snippet
+Include photo reference link
+
+After Snippet
+Photo reference link
+
+
+### CleanUpDashboard App
+
+Story Decription
+
+Before Snippet
+Include photo reference link
+
+After Snippet
+Photo reference link
+
+*Jump to: [Back End Stories](#back-end-stories), [Front End Stories](#front-end-stories), [Other Skills](#other-skills), [Page Top](#live-project)*
+
+
+## Front End Stories
+* [FrontEndFixLogo](#frontendfixlogo)
+* [FrontEndIconsUpgrade](#frontendiconsupgrade)
+* [HTMLSpecialCleanupBugFixes](#htmlspecialcleanupbugfixes)
+* [Front-end-FixTemplates](#frontendfixtemplates)
+* [BugFixSortRenderingDependencies](#bugfixsortrenderingdependencies)
+
+
+### FrontEndFixLogo
+Story Decription
+
+Before Snippet
+Include photo reference link
+
+After Snippet
+Photo reference link
+
+*Jump to: [Back End Stories](#back-end-stories), [Front End Stories](#front-end-stories), [Other Skills](#other-skills), [Page Top](#live-project)*
+
+
+### FrontEndIconsUpgrade
+Story Decription
+
+Before Snippet
+Include photo reference link
+
+After Snippet
+Photo reference link
+
+*Jump to: [Back End Stories](#back-end-stories), [Front End Stories](#front-end-stories), [Other Skills](#other-skills), [Page Top](#live-project)*
+
+### HTMLSpecialCleanupBugFixes
+Story Decription
+
+Before Snippet
+Include photo reference link
+
+After Snippet
+Photo reference link
+
+*Jump to: [Back End Stories](#back-end-stories), [Front End Stories](#front-end-stories), [Other Skills](#other-skills), [Page Top](#live-project)*
+
+### Front-end-FixTemplates
+Story Decription
+
+Before Snippet
+Include photo reference link
+
+After Snippet
+Photo reference link
+
+*Jump to: [Back End Stories](#back-end-stories), [Front End Stories](#front-end-stories), [Other Skills](#other-skills), [Page Top](#live-project)*
+
+### BugFixSortRenderingDependencies
+Story Decription
+
+Before Snippet
+Include photo reference link
+
+After Snippet
+Photo reference link
+
+*Jump to: [Back End Stories](#back-end-stories), [Front End Stories](#front-end-stories), [Other Skills](#other-skills), [Page Top](#live-project)*
+
+
 
 For Python Live Project I was able to work on 2 projects as well
 
@@ -28,3 +137,17 @@ EB-HTMLSpecialCleanupBugFixes
 EB-4732-Front-end-FixTemplates
 
 EB-4780-BugFixSortRenderingDependencies Probably My Favorite*
+
+
+
+### Other Skills
+
+* Teaming with a group of developers working to identify both front-end and back-end issues/bugs and finding solutions to improve usability and efficieny in an application.
+* Attending stand-up meetings physically and remotely, discussing any questions or concerns with team members to improve overall organization and communication.
+* Practice with Team/Pair Programming when a developer has issues solving a particular problem.
+
+*Jump to: [Back End Stories](#back-end-stories), [Front End Stories](#front-end-stories), [Other Skills](#other-skills), [Page Top](#live-project)*
+
+
+Thanks for viewing :)
+
