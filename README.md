@@ -24,7 +24,7 @@ Below are descriptions of stories I helped work on in an AGILE environment along
 
 ### NewAppBudgetApp
 
-Story Decription
+Story Decription: Grounds up back and front design for a budgeting app that could help the user plan and budget for potential trips then implemented to Django.
 
 Before Snippet
 Include photo reference link
@@ -38,7 +38,7 @@ Photo reference link
 
 ### CleanUpDashboard
 
-Story Decription
+Story Decription: Setting up the dashboard as the main relay or switchboard for the user to connect with each app that was being built. Improving also upon the visual side to help the user have a friendlier experience.
 
 Before Snippet
 Include photo reference link
