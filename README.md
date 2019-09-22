@@ -151,7 +151,7 @@ EB-4780-BugFixSortRenderingDependencies Probably My Favorite*
 
 
 
-### Other Skills
+## Other Skills
 
 * Teaming with a group of developers working to identify both front-end and back-end issues/bugs and finding solutions to improve usability and efficieny in an application.
 * Attending stand-up meetings physically and remotely, discussing any questions or concerns with team members to improve overall organization and communication.
