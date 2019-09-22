@@ -53,7 +53,7 @@ Photo reference link
 * [FrontEndFixLogo](#frontendfixlogo)
 * [FrontEndIconsUpgrade](#frontendiconsupgrade)
 * [HTMLSpecialCleanupBugFixes](#htmlspecialcleanupbugfixes)
-* [Front-end-FixTemplates](#frontendfixtemplates)
+* [FrontEndFixTemplates](#frontendfixtemplates)
 * [BugFixSortRenderingDependencies](#bugfixsortrenderingdependencies)
 
 
@@ -91,7 +91,7 @@ Photo reference link
 
 *Jump to: [Back End Stories](#back-end-stories), [Front End Stories](#front-end-stories), [Other Skills](#other-skills), [Page Top](#live-project)*
 
-### Front-end-FixTemplates
+### FrontEndFixTemplates
 Story Decription: At the time, some of the applications that were completed had their own html templates and some were located inside the general/global template folder.  The director wanted to maintain the practice of following things the Django way which meant every app had its own template exclusively for that app.  At this stage we wanted to relocate all misplaced html templates that were inside the global template folder to be stored within their own designated apps.  We aniticpated this would have issues with routing and dependencies.
 
 Before Snippet
