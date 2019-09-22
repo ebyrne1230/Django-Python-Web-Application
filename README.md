@@ -36,7 +36,7 @@ Photo reference link
 *Jump to: [Back End Stories](#back-end-stories), [Front End Stories](#front-end-stories), [Other Skills](#other-skills), [Page Top](#live-project)*
 
 
-### CleanUpDashboard App
+### CleanUpDashboard
 
 Story Decription
 
