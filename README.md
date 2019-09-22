@@ -92,7 +92,7 @@ Photo reference link
 *Jump to: [Back End Stories](#back-end-stories), [Front End Stories](#front-end-stories), [Other Skills](#other-skills), [Page Top](#live-project)*
 
 ### Front-end-FixTemplates
-Story Decription
+Story Decription: At the time, some of the applications that were completed had their own html templates and some were located inside the general/global template folder.  The director wanted to maintain the practice of following things the Django way which meant every app had its own template exclusively for that app.  At this stage we wanted to relocate all misplaced html templates that were inside the global template folder to be stored within their own designated apps.  We aniticpated this would have issues with routing and dependencies.
 
 Before Snippet
 Include photo reference link
@@ -103,7 +103,15 @@ Photo reference link
 *Jump to: [Back End Stories](#back-end-stories), [Front End Stories](#front-end-stories), [Other Skills](#other-skills), [Page Top](#live-project)*
 
 ### BugFixSortRenderingDependencies
-Story Decription
+Story Decription:  At the time the main problem...  Our overall app is growing in size and complexity, this is good.  But there is the problem that some of the smaller apps are relying on the base.html file and we're about to be flooded with dependencies(links, scripts, etc).  This can cause overriding of scripts and which app is dependent on them.
+
+The proposed solution: Have our apps handle their own dependencies by either:
+--Having each app use SimpleBASE.html that can be rendered to the MAIN BASE.html every time the user calls/uses the app THEN have that SimpleBASE.html handle the rendering of each .html inside that app  
+--OR--
+--Apply each dependency on each .html inside that app and render when that .html is called.
+
+Note: Make sure to sort these dependencies correctly and remove them from the main BASE.
+
 
 Before Snippet
 Include photo reference link
