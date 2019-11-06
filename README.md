@@ -8,7 +8,7 @@ Work done with Prosper IT Consulting Dev Ops Team
 
 I took part in a non-paid internship with Prosper IT Consulting working as a software developer as part of a Dev Ops team that worked on building a project that is a web scraping application built with Django and Beautifulsoup.  The application will gather data from the web that is relevant to the user, who is looking to travel.  It will include weather, flights info, events, restaurants, etc.  We will be getting the data with webscraping and APIs.
 
-This project leveraged the power of .NET frameworks and MVC.  The main programming language used was C# in addition to the front-end languages.
+This project leveraged the power of Django frameworks.  The main programming language used was Python3 in addition to the front-end languages.
 
 Below are descriptions of stories I helped work on in an AGILE environment along with code snippets and navigation links.  
 
